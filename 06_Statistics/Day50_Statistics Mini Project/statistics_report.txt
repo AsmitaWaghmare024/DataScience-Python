@@ -1,0 +1,15 @@
+STATISTICS REPORT
+-------------------------
+Marks: [70.0, 72.0, 75.0, 78.0, 80.0, 82.0, 85.0, 200.0]
+Mean: 92.75
+Median: 79.0
+Mode: 70.0
+Variance: 1903.0714285714287
+Standard Deviation: 43.62420691051505
+Minimum: 70.0
+Maximum: 200.0
+Q1: 74.25
+Q2: 79.0
+Q3: 82.75
+Total Outliers: 1
+Confidence Interval: 89.75 to 95.75
